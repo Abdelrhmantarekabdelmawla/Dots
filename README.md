@@ -1,3 +1,10 @@
+## BMC
+https://drive.google.com/file/d/1gwJQ9ehk8LZJvAsEJ4nnAu3Wu7SgPP89/view?usp=drive_link
+## Video
+https://drive.google.com/file/d/16GorG9XY_pTAxGKtffvCATg3BV8Kf1ZE/view?usp=drive_link
+## Presentation
+https://www.canva.com/design/DAGYIRjRDeA/it2JgLT8TTPb1G6v9FhbbQ/edit?utm_content=DAGYIRjRDeA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ![Group 3](https://github.com/user-attachments/assets/387b1501-0436-4629-81ee-e9791a3160f1)
 
 ## AI-Based Technical Field Recommender
@@ -61,12 +68,6 @@ pip install -r requirements.txt
    - View the analysis and recommendation at the end.
 
 ---
-## BMC
-https://drive.google.com/file/d/1gwJQ9ehk8LZJvAsEJ4nnAu3Wu7SgPP89/view?usp=drive_link
-## Video
-https://drive.google.com/file/d/16GorG9XY_pTAxGKtffvCATg3BV8Kf1ZE/view?usp=drive_link
-## Presentation
-https://www.canva.com/design/DAGYIRjRDeA/it2JgLT8TTPb1G6v9FhbbQ/edit?utm_content=DAGYIRjRDeA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ## Example Use Case
 
 The model will ask you 10 questions, such as:
