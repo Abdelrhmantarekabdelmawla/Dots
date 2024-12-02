@@ -61,7 +61,10 @@ pip install -r requirements.txt
    - View the analysis and recommendation at the end.
 
 ---
-
+## BMC
+https://drive.google.com/file/d/1gwJQ9ehk8LZJvAsEJ4nnAu3Wu7SgPP89/view?usp=drive_link
+## Video
+https://drive.google.com/file/d/16GorG9XY_pTAxGKtffvCATg3BV8Kf1ZE/view?usp=drive_link
 ## Example Use Case
 
 The model will ask you 10 questions, such as:
